@@ -11,23 +11,23 @@ Hi, I am Zhehao Dong. I am currently a master's student at the [College of Engin
 
 My research interests lie in **Large Language Model(LLM)**, **Natural Language Processing(NLP)**, and **AI agents**. 
 
-You can find my résumé here: [Zhehao Dong's résumé](http://vittoriodong.github.io/zhehaodong.github.io/assets/resume.pdf).
+You can find my résumé here: [Zhehao Dong's Résumé](http://vittoriodong.github.io/zhehaodong.github.io/assets/resume.pdf).
 
 ## 📚 Recent Publication
 [**Fine-tuning a large language model for automating computational fluid dynamics simulations**](https://www.sciencedirect.com/science/article/pii/S2095034925000261)  
-Zhehao Dong, Zhen Lu, Yang Yue  
+<u>Zhehao Dong</u>, Zhen Lu, Yang Yue  
 *TAML 2025*  
-[paper](https://www.sciencedirect.com/science/article/pii/S2095034925000261) [code](https://github.com/YYgroup/AutoCFD)
+[[paper]](https://www.sciencedirect.com/science/article/pii/S2095034925000261) [[code]](https://github.com/YYgroup/AutoCFD)
 
 ## 🏫 Educations
-- *2024-09 - Present*: Master of Mechanical Engineering (LLM for Science), Peking University
-- *2020-09 - 2024-06*: Bachelor of Software Engineering & Mechanics, Sichuan University
+- *2024-09 - Present* : Master of Mechanical Engineering (LLM for Science), Peking University
+- *2020-09 - 2024-06* : Bachelor of Software Engineering & Mechanics, Sichuan University
 
 ## 💼 Internship Experience
-- *2023-11 - 2024-05*: NLP Algorithm Intern, Baidu AI Cloud
+- *2023-11 - 2024-05* : NLP Algorithm Intern, Baidu AI Cloud
 
 ## 🏆 Selected Honors & Awards
 - National Scholarship  
-  from Sichuan University, 2021 & 2023
+  *from Sichuan University, 2021 & 2023*
 - Outstanding Graduates of Sichuan Province  
-  from Sichuan University, 2024
+  *from Sichuan University, 2024*
