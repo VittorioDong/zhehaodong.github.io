@@ -14,7 +14,7 @@ My research interests lie in **Large Language Model**,  **AI agents**, and **Emb
 You can find my résumé here: [Zhehao Dong's Résumé](http://vittoriodong.github.io/zhehaodong.github.io/assets/resume.pdf).
 
 ## 📚 Recent Publication
-* denotes equal contribution, and † denotes corresponding author
+<sup>*</sup> denotes equal contribution, and <sup>†</sup> denotes corresponding author
 
 [**Fine-tuning a large language model for automating computational fluid dynamics simulations**](https://www.sciencedirect.com/science/article/pii/S2095034925000261)  
 <u>Zhehao Dong</u>, Zhen Lu<sup>†</sup>, Yang Yue<sup>†</sup> 
