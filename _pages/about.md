@@ -16,15 +16,19 @@ You can find my résumé here: [Zhehao Dong's Résumé](http://vittoriodong.gith
 ## 📚 Recent Publication
 <sup>*</sup> denotes equal contribution, and <sup>†</sup> denotes corresponding author
 
-[**Fine-tuning a large language model for automating computational fluid dynamics simulations**](https://www.sciencedirect.com/science/article/pii/S2095034925000261)  
+[**Fine-tuning a large language model for automating computational fluid dynamics simulations**](https://www.sciencedirect.com/science/article/pii/S2095034925000261)
+
 <u>Zhehao Dong</u>, Zhen Lu<sup>†</sup>, Yang Yue<sup>†</sup> 
-*TAML 2025*  
+
+**TAML 2025**
+
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S2095034925000261) [[Code]](https://github.com/YYgroup/AutoCFD)  **Citations: 21**
 
-## 🔍 Under Review
+## 🔍 Selected Preprints
 [**EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer**](https://arxiv.org/abs/2509.22407)
-<u>Zhehao Dong<sup>*</sup></u>, Xiaofeng Wang<sup>*</sup>, Zheng Zhu<sup>*†</sup>, Yirui Wang, Yang Wang, Yukun Zhou, Boyuan Wang, Chaojun Ni, Runqi Ouyang, Wenkang Qin, Xinze Chen, Yun Ye, Guan Huang
-*Under Review*
+
+<u>Zhehao Dong</u><sup>*</sup>, Xiaofeng Wang<sup>*</sup>, Zheng Zhu<sup>*†</sup>, Yirui Wang, Yang Wang, Yukun Zhou, Boyuan Wang, Chaojun Ni, Runqi Ouyang, Wenkang Qin, Xinze Chen, Yun Ye, Guan Huang
+
 [[Project page]](https://emma-gigaai.github.io)
 
 ## 🏫 Educations
